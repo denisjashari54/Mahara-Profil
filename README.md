@@ -1,5 +1,4 @@
-## Mahara Portfolios
-Hier finden Sie die Links zu meinen Portfolio-Einträgen:
+# Mahara Portfolios
 
 ### Modul LB210: AWS
 https://portfolio.bbbaden.ch/view/view.php?t=a1a54a0fa77959020dcd
